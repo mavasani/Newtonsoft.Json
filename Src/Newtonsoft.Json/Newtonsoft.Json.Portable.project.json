@@ -4,5 +4,9 @@
   },
   "runtimes": {
     "win": {}
+  },
+  "dependencies": {
+    "StyleCop.Analyzers": "1.0.0",
+    "System.Runtime.Analyzers": "1.0.1"
   }
 }
